@@ -1,1 +1,4 @@
 venv
+LevelDBDumper
+filtered_output.json
+.DS_Store
