@@ -1,4 +1,5 @@
 venv
 LevelDBDumper
 filtered_output.json
+metamas_filtered_output.json
 .DS_Store
